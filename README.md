@@ -1,3 +1,2 @@
 # Basic.HTML.CSS.JS
-Basic codes from remembering how to use those languages
-Nothing advanced
+Códigos básicos de HTML, CSS, JS, relembrando como codar em tais lingugens
